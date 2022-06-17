@@ -26,7 +26,9 @@ The future of surfing is not in plastic, it’s in collaboration with the micro-
 The bio-shoe is a physical artifact which presents an alternative to material choices in traditional shoe production. The sole is shaped with mycelium which grows into a 3D-printed mold while the upper part consists of bioplastics. The shoe serves as an example of possibilities in a desired future which contains fewer non-renewable plastics and waste. Bio-wearables including jewelry, gloves, and accessories are made with bio-materials and grow-lay filament which are created to excite users during the event, help them engage more with an altered self while showing the possibilities of what can be made with biomaterials, and allow participants to have a playful, symbiotic relationship with material objects.
 
 #### Bill of materials
+materials used for shoe and wearables; mycelium substrate from grown bio, alginate , spirulina and wool based bioplastics, alginate and food waste bioplastics, 3d printed growlay filament (for growing seeds)
 
+materials used for molds and trays: PLA 3D printed filament, waterproof fabric, wooden frames
 
 #### Audience
 The shoe and bio-wearables produced as part of this fourth micro-challenge will be displayed and present for use at a final showcase entitled Symbiatipico, located at Atipico restaurant and cultural event space. More than to generate a future business, the project aims to provoke conversation surrounding circular materials, question current production practices, and project ideas for a more sustainable future for items with short life spans. 
