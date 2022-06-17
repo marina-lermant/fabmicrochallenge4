@@ -1,5 +1,6 @@
 # fabmicrochallenge4
 ## “Integrated prototype” that helps your MDEF Project /Fest and integrates a range of units covered.
+![planning](pictures/shoeplanning.jpg)
 ![inspiration](pictures/chall4inspo.png)
 ![inspiration](pictures/chall4myke.png)
 ![inspiration](pictures/chall4design.png)
