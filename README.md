@@ -4,7 +4,7 @@
 ![inspiration](pictures/chall4inspo.png)
 ![inspiration](pictures/chall4myke.png)
 ![inspiration](pictures/chall4design.png)
-![diagram](pictures/systemdiagram.jpeg)
+![diagram](pictures/Bio-shoe.svg)
 ![inspiration](pictures/chall4plastics.png)
 ![inspiration](pictures/chall4printning.png)
 ## Dissemination
