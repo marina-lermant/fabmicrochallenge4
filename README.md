@@ -7,6 +7,9 @@
 ![diagram](pictures/Bio-shoe.svg)
 ![inspiration](pictures/chall4plastics.png)
 ![inspiration](pictures/chall4printning.png)
+![inspiration](pictures/Fab Academy-Challenge-4-Presentation-06.jpg)
+![inspiration](pictures/Fab-Academy-Challenge-4-Presentation-07.jpg)
+![inspiration](pictures/Fab-Academy-Challenge-4-Presentation-08.jpg)
 ## Dissemination
 ### Myke Board
 #### Materials
