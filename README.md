@@ -10,6 +10,7 @@
 ![inspiration](pictures/Fab-Academy-Challenge-4-Presentation-06.jpg)
 ![inspiration](pictures/Fab-Academy-Challenge-4-Presentation-07.jpg)
 ![inspiration](pictures/Fab-Academy-Challenge-4-Presentation-08.jpg)
+![inspiration](pictures/bio-shoe-2.jpeg)
 ## Dissemination
 ### Myke Board
 #### Materials
